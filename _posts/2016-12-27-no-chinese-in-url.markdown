@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "中文标题可以吗"
+title:      "文件名不含中文，试试"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2016-12-27
 author:     "Michael Zhang"

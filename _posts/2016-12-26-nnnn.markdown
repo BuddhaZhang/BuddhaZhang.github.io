@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "nnnn"
+title:      "hello, world"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2016-12-26
 author:     "Michael Zhang"
