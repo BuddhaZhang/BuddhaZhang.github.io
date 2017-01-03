@@ -16,17 +16,6 @@ tags:
 
 # 正文
 
-```java
-public void startThreadUseRunnalbe() {
-Thread thread = new Thread(new Runnable() {
-public void run() {
-System.out.println("start thread using runnable");
-}
-});
-thread.start();
-}
-```
-
 2016年已经过去，想想自己都做了什么事。
 
 2017对自己的规划是：成为一名关于数据的有偏全栈工程师（从数据采集到数据分析，最后数据的展示）。
