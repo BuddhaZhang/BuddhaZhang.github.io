@@ -115,11 +115,11 @@ Mini-About-Me 这个模块将在你的头像下面，展示你所有的社交账
 看到这个网站 [Medium](http://medium.com) 的标签云非常的炫酷，所有我在将他加了进来。
 这个模块现在是独立的，可以呈现在所有页面，包括主页和发表的每一篇文章标题的头上。
 
-```
+
 # Featured Tags
 featured-tags: true  
 featured-condition-size: 1     # A tag will be featured if the size of it is more than this condition value
-```
+
 
 唯一需要注意的是`featured-condition-size`: A tag will be featured if the size of it is more than this condition value. （也不知道Hux是想表达什么意思，请作者解答）
  

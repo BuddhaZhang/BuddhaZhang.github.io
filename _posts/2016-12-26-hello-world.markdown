@@ -21,6 +21,17 @@ tags:
 
 不折腾，内容为王
 
+```java
+public void startThreadUseRunnalbe() {
+Thread thread = new Thread(new Runnable() {
+public void run() {
+System.out.println("start thread using runnable");
+}
+});
+thread.start();
+}
+```
+
 转载一篇时间管理的文章。
 
 
