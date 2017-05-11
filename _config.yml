@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: zhminchao@qqcom
 description: "小学生的写作铺子"
 keyword: ""
-url: "http://MichaelAlexZhang.github.io"              # your host, for absolute URL
+url: "http://buddhazhang.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -14,7 +14,7 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 RSS: false
 weibo_username:     
 zhihu_username:     
-github_username:    MichaelAlexZhang
+github_username:    buddhazhang
 #twitter_username:  
 facebook_username:  
 
